@@ -1,11 +1,13 @@
 # dacon_click
 
 ## baseline_click_lgbm
-lgbm 의 파라미터 값 찾아내기
+optuna 를 이용해 lgbm 의 파라미터 값 찾아내기
+
 ## baseline_click_xgboost
-xgboost 의 파라미터 값 찾아내기
+optuna 를 이용해 xgboost 의 파라미터 값 찾아내기
+
 ## baseline_click_voting
-위의 두 모델에서 찾은 파라미터를 적용한 것
+위의 두 모델에서 찾은 파라미터에 voting을 적용한 것
 
 ---
 
